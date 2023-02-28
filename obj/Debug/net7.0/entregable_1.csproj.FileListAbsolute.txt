@@ -1,0 +1,15 @@
+C:\Users\nandr\Desktop\construccion_5\entregable_1\bin\Debug\net7.0\entregable_1.exe
+C:\Users\nandr\Desktop\construccion_5\entregable_1\bin\Debug\net7.0\entregable_1.deps.json
+C:\Users\nandr\Desktop\construccion_5\entregable_1\bin\Debug\net7.0\entregable_1.runtimeconfig.json
+C:\Users\nandr\Desktop\construccion_5\entregable_1\bin\Debug\net7.0\entregable_1.dll
+C:\Users\nandr\Desktop\construccion_5\entregable_1\bin\Debug\net7.0\entregable_1.pdb
+C:\Users\nandr\Desktop\construccion_5\entregable_1\obj\Debug\net7.0\entregable_1.csproj.AssemblyReference.cache
+C:\Users\nandr\Desktop\construccion_5\entregable_1\obj\Debug\net7.0\entregable_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandr\Desktop\construccion_5\entregable_1\obj\Debug\net7.0\entregable_1.AssemblyInfoInputs.cache
+C:\Users\nandr\Desktop\construccion_5\entregable_1\obj\Debug\net7.0\entregable_1.AssemblyInfo.cs
+C:\Users\nandr\Desktop\construccion_5\entregable_1\obj\Debug\net7.0\entregable_1.csproj.CoreCompileInputs.cache
+C:\Users\nandr\Desktop\construccion_5\entregable_1\obj\Debug\net7.0\entregable_1.dll
+C:\Users\nandr\Desktop\construccion_5\entregable_1\obj\Debug\net7.0\refint\entregable_1.dll
+C:\Users\nandr\Desktop\construccion_5\entregable_1\obj\Debug\net7.0\entregable_1.pdb
+C:\Users\nandr\Desktop\construccion_5\entregable_1\obj\Debug\net7.0\entregable_1.genruntimeconfig.cache
+C:\Users\nandr\Desktop\construccion_5\entregable_1\obj\Debug\net7.0\ref\entregable_1.dll
